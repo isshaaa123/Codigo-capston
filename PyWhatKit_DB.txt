@@ -1,0 +1,75 @@
+Date: 21/9/2023
+Time: 19:20
+Phone Number: +56957664948
+Message: Hola Diego, te invitamos a votar por el equipo mas motivado en el siguiente link: https://www.google.com
+--------------------
+Date: 21/9/2023
+Time: 19:20
+Phone Number: +569982978121
+Message: Hola Isadora, te invitamos a votar por el equipo mas motivado en el siguiente link: https://www.google.com/maps
+--------------------
+Date: 21/9/2023
+Time: 19:21
+Phone Number: +56957665948
+Message: Hola Diego, te invitamos a votar por el equipo mas motivado en el siguiente link: https://www.google.com
+--------------------
+Date: 21/9/2023
+Time: 19:21
+Phone Number: +569982978121
+Message: Hola Isadora, te invitamos a votar por el equipo mas motivado en el siguiente link: https://www.google.com/maps
+--------------------
+Date: 21/9/2023
+Time: 19:21
+Phone Number: +56957665948
+Message: Hola Diego, te invitamos a votar por el equipo mas motivado en el siguiente link: https://www.google.com
+--------------------
+Date: 21/9/2023
+Time: 19:22
+Phone Number: +569982978121
+Message: Hola Isadora, te invitamos a votar por el equipo mas motivado en el siguiente link: https://www.google.com/maps
+--------------------
+Date: 21/9/2023
+Time: 19:27
+Phone Number: +56935132399
+Message: Hola Jose, te contamos que tu cuenta a sido hackeada, deposita 10 millones para recuperarla
+--------------------
+Date: 22/9/2023
+Time: 14:14
+Phone Number: +569665948
+Message: Hola Diego, te informamos que el pedido se entregará el 25 de septiembre. El valor del pedido es $50.00. ¿Puedes recibir el pedido?1. Sí2. No
+--------------------
+Date: 22/9/2023
+Time: 14:15
+Phone Number: +56957665948
+Message: Hola Diego, te informamos que el pedido se entregará el 25 de septiembre. El valor del pedido es $50.00. ¿Puedes recibir el pedido?1. Sí2. No
+--------------------
+Date: 22/9/2023
+Time: 14:17
+Phone Number: +56957665948
+Message: Hola Diego, te informamos que el pedido se entregará el 25 de septiembre. El valor del pedido es $50.00. ¿Puedes recibir el pedido?1. Sí2. No
+--------------------
+Date: 23/9/2023
+Time: 21:25
+Phone Number: +56990898089
+Message: Hola Jacky, te informamos que el pedido se entregará el 25 de septiembre. El valor del pedido es $50.00. ¿Puedes recibir el pedido?1. Sí2. No
+--------------------
+Date: 23/9/2023
+Time: 21:25
+Phone Number: +56998644313
+Message: Hola Pablo, te informamos que el pedido se entregará el 25 de septiembre. El valor del pedido es $50.00. ¿Puedes recibir el pedido?1. Sí2. No
+--------------------
+Date: 23/9/2023
+Time: 21:26
+Phone Number:  +56935132399
+Message: Hola Jose, te informamos que el pedido se entregará el 25 de septiembre. El valor del pedido es $50.00. ¿Puedes recibir el pedido?1. Sí2. No
+--------------------
+Date: 23/9/2023
+Time: 21:27
+Phone Number: +56990898089
+Message: Hola Jacky, te informamos que el pedido se entregará el 25 de septiembre. El valor del pedido es $50.00. ¿Puedes recibir el pedido?1. Sí2. No
+--------------------
+Date: 23/9/2023
+Time: 21:30
+Phone Number: +56990898089
+Message: Hola Jacky, te informamos que el pedido se entregará el 0 NaNName: Fecha, dtype: object. El valor del pedido es 0 15/10/2023Name: Valor, dtype: object. ¿Puedes recibir el pedido?1. Sí2. No
+--------------------
