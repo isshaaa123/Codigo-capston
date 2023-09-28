@@ -73,3 +73,8 @@ Time: 21:30
 Phone Number: +56990898089
 Message: Hola Jacky, te informamos que el pedido se entregará el 0 NaNName: Fecha, dtype: object. El valor del pedido es 0 15/10/2023Name: Valor, dtype: object. ¿Puedes recibir el pedido?1. Sí2. No
 --------------------
+Date: 27/9/2023
+Time: 22:52
+Phone Number: +56990898089
+Message: Hola Jacky, te informamos que el pedido se entregará el 0 NaNName: Fecha, dtype: object. El valor del pedido es 0 15/10/2023Name: Valor, dtype: object. ¿Puedes recibir el pedido?1. Sí2. No
+--------------------
